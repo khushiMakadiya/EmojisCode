@@ -1,2 +1,2 @@
 # EmojisCode
-![Python Screenshot](./Emojis.py)                                                        
+![Python Screenshot](./Emojis.png)                                                        
